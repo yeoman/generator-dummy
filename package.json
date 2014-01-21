@@ -11,7 +11,7 @@
     "url": "git://github.com/yeoman/generator-dummy.git"
   },
   "author": "Simon Boudrias",
-  "license": "MIT",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/yeoman/generator-dummy/issues"
   }
