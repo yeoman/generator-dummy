@@ -1,6 +1,8 @@
 generator-dummy
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yeoman/generator-dummy.svg)](https://greenkeeper.io/)
+
 Dummy generator used for unit testing purpose
 
 
